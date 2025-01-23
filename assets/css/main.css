@@ -24,26 +24,43 @@ section, summary, time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;}
+.title {
+    font-size: 3rem;
+    font-weight: 700;
+    text-align: center;
+    white-space: nowrap; /* Ensures the text stays on one line */
+    margin-bottom: 10px;
+}
 
-<style>
-    .intro-title {
-        font-size: 3rem;
-        font-weight: 700;
-        text-align: center;
+.description {
+    font-size: 1.2rem;
+    text-align: center;
+    letter-spacing: 1px;
+    color: #333;
+}
+
+/* Background color change */
+.intro {
+    background-color: #f8f8f8; /* Off-white background */
+    padding: 50px 20px;
+}
+
+/* Center content */
+header {
+    text-align: center;
+}
+
+/* Ensure responsive layout */
+@media (max-width: 768px) {
+    .title {
+        font-size: 2rem;
     }
-
-    .intro-desc {
-        font-size: 1.2rem;
-        text-align: center;
-        margin-top: 10px;
+    .description {
+        font-size: 1rem;
     }
+}
 
-    .actions {
-        text-align: center;
-        margin-top: 20px;
-    }
-</style>
-
+   
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
