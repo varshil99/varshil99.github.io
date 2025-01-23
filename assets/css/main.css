@@ -24,26 +24,27 @@ section, summary, time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;}
+
 .intro header {
     text-align: center; /* Centering the content */
     padding: 50px 20px;  /* Add spacing for better readability */
 }
 
 .intro-title {
-    font-size: 3rem;  /* Adjust font size for title */
-    font-weight: 700;
+    font-size: 4rem;  /* Adjust font size for title */
+    font-weight: 1000;
     margin-bottom: 0; /* Remove extra spacing below */
 }
 
 .intro-subtitle {
-    font-size: 2.5rem; /* Subtitle size */
+    font-size: 3.5rem; /* Subtitle size */
     font-weight: 600;
     margin-top: 0; /* Remove top margin */
 }
 
 .intro-desc {
-    font-size: 1.2rem;
-    font-weight: 400;
+    font-size: 1.5rem;
+    font-weight: 600;
     color: #444;  /* Light gray text */
     margin-top: 10px;
 }
