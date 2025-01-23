@@ -17,51 +17,8 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: baseline;
 
-<style>
-    /* Force styles to apply */
-   .intro {
-    background-color: #f8f8f8 !important; /* Off-white color */
-    padding: 50px 20px;
-    text-align: center;
-    }
-
-    .intro h1 {
-    font-size: 3rem; /* Adjust size as needed */
-    font-weight: 700;
-    white-space: nowrap; /* Prevents text from wrapping */
-    text-align: center;
-    margin: 0 auto;
-    display: inline-block;
-    }
-
-	.heading-container {
-	    display: flex;
-	    justify-content: center;
-	    align-items: center;
-	}
-
-
-    .intro p {
-        font-size: 1.2rem !important;
-        letter-spacing: 1px !important;
-        color: #333 !important;
-        margin: 0 auto !important;
-    }
-
-    /* Responsive Fix */
-    @media (max-width: 768px) {
-        .intro h1 {
-            font-size: 2rem !important;
-        }
-        .intro p {
-            font-size: 1rem !important;
-        }
-    }
-</style>
-
-   
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
