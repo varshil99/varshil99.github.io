@@ -1,39 +1,84 @@
-[
-    { "name": "HTML234", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
-    { "name": "HTML", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "programming" }, 
+import React from "react";
 
-    { "name": "Node.js", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "databases" }, 
-    { "name": "Node.js", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "databases" }, 
+const skills = [
+  {
+    category: "Data Science & Machine Learning",
+    skills: [
+      { name: "Python", icon: "https://img.icons8.com/color/48/000000/python.png" },
+      { name: "R", icon: "https://img.icons8.com/color/48/000000/r-project.png" },
+      { name: "SAS", icon: "https://img.icons8.com/color/48/000000/sas.png" },
+      { name: "Machine Learning", icon: "https://img.icons8.com/fluency/48/artificial-intelligence.png" },
+      { name: "Deep Learning", icon: "https://img.icons8.com/fluency/48/deep-learning.png" },
+      { name: "Neural Networks", icon: "https://img.icons8.com/fluency/48/neural-network.png" },
+      { name: "NLP", icon: "https://img.icons8.com/fluency/48/natural-language-processing.png" },
+      { name: "LSTMs", icon: "https://img.icons8.com/fluency/48/artificial-intelligence.png" },
+      { name: "Transformers", icon: "https://img.icons8.com/fluency/48/transformer.png" },
+      { name: "Flask", icon: "https://img.icons8.com/ios/50/flask.png" },
+      { name: "FastAPI", icon: "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/fastapi.png" },
+      { name: "MLflow", icon: "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/mlflow.png" },
+    ],
+  },
+  {
+    category: "Data Engineering & Big Data",
+    skills: [
+      { name: "SQL", icon: "https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/sql.png" },
+      { name: "PostgreSQL", icon: "https://img.icons8.com/color/48/postgreesql.png" },
+      { name: "MySQL", icon: "https://img.icons8.com/color/48/mysql.png" },
+      { name: "MongoDB", icon: "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/mongodb.png" },
+      { name: "Cassandra", icon: "https://img.icons8.com/fluency/48/cassandra.png" },
+      { name: "Apache Airflow", icon: "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/apache-airflow.png" },
+      { name: "Apache NiFi", icon: "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/nifi.png" },
+      { name: "dbt", icon: "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/dbt.png" },
+    ],
+  },
+  {
+    category: "Business Intelligence & Analytics",
+    skills: [
+      { name: "Power BI", icon: "https://img.icons8.com/color/48/power-bi.png" },
+      { name: "Tableau", icon: "https://img.icons8.com/color/48/tableau.png" },
+      { name: "Looker", icon: "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/looker.png" },
+      { name: "AWS Quicksight", icon: "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/aws.png" },
+    ],
+  },
+  {
+    category: "Cloud & DevOps",
+    skills: [
+      { name: "AWS", icon: "https://img.icons8.com/color/48/amazon-web-services.png" },
+      { name: "Snowflake", icon: "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/snowflake.png" },
+      { name: "Azure", icon: "https://img.icons8.com/color/48/azure-1.png" },
+      { name: "Docker", icon: "https://img.icons8.com/color/48/docker.png" },
+      { name: "Kubernetes", icon: "https://img.icons8.com/color/48/kubernetes.png" },
+      { name: "Terraform", icon: "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/terraform.png" },
+    ],
+  },
+  {
+    category: "Version Control & Others",
+    skills: [
+      { name: "Git", icon: "https://img.icons8.com/color/48/git.png" },
+      { name: "CI/CD", icon: "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/cicd.png" },
+    ],
+  },
+];
 
-    { "name": "Git", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "cloud" }, 
-    { "name": "Git", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png", "category": "cloud" }
-]
+const SkillsPage = () => {
+  return (
+    <div className="container mx-auto px-4 py-10">
+      <h2 className="text-3xl font-bold text-center mb-6">Skills & Technologies</h2>
+      {skills.map((category, index) => (
+        <div key={index} className="mb-8">
+          <h3 className="text-2xl font-semibold border-b-2 pb-2 mb-4">{category.category}</h3>
+          <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4">
+            {category.skills.map((skill, idx) => (
+              <div key={idx} className="flex items-center space-x-3 bg-gray-100 p-4 rounded-lg shadow-md">
+                <img src={skill.icon} alt={skill.name} className="w-8 h-8" />
+                <span className="text-lg font-medium">{skill.name}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+  );
+};
+
+export default SkillsPage;
