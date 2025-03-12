@@ -2,8 +2,8 @@
   { "name": "Python", "icon": "https://img.icons8.com/color/48/000000/python.png", "category": "programming" },
   { "name": "SQL", "icon": "https://img.icons8.com/color/48/000000/sql.png", "category": "programming" },
   { "name": "Java", "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png", "category": "programming" },
-  { "name": "Scala", "icon": "https://img.icons8.com/color/48/000000/scala.png", "category": "programming" },
-  { "name": "R", "icon": "https://img.icons8.com/color/48/000000/r-project.png", "category": "programming" },
+  { "name": "Scala", "icon": "https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg", "category": "programming" },
+  { "name": "R", "icon": "https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg", "category": "programming" },
   { "name": "AWS", "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png", "category": "cloud" },
   { "name": "Azure", "icon": "https://img.icons8.com/color/48/000000/azure-1.png", "category": "cloud" },
   { "name": "GCP", "icon": "https://img.icons8.com/color/48/000000/google-cloud.png", "category": "cloud" },
@@ -12,7 +12,7 @@
   { "name": "Power BI", "icon": "https://img.icons8.com/color/48/000000/power-bi.png", "category": "bi" },
   { "name": "Tableau", "icon": "https://img.icons8.com/color/48/000000/tableau-software.png", "category": "bi" },
   { "name": "Apache Spark", "icon": "https://img.icons8.com/color/48/000000/apache-spark.png", "category": "big-data" },
-  { "name": "Kafka", "icon": "https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg", "category": "big-data" },
+  { "name": "Kafka", "icon": "https://upload.wikimedia.org/wikipedia/commons/6/64/Apache_kafka.svg", "category": "big-data" },
   { "name": "TensorFlow", "icon": "https://img.icons8.com/color/48/000000/tensorflow.png", "category": "ml" },
   { "name": "PyTorch", "icon": "https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg", "category": "ml" }
 ]
