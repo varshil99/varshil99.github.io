@@ -11,8 +11,8 @@
   { "name": "Kubernetes", "icon": "https://img.icons8.com/color/48/000000/kubernetes.png", "category": "cloud" },
   { "name": "Power BI", "icon": "https://img.icons8.com/color/48/000000/power-bi.png", "category": "bi" },
   { "name": "Tableau", "icon": "https://img.icons8.com/color/48/000000/tableau-software.png", "category": "bi" },
-  { "name": "Apache Spark", "icon": "https://img.icons8.com/color/48/000000/apache-spark.png", "category": "big data" },
-  { "name": "Kafka", "icon": "https://img.icons8.com/color/48/000000/kafka.png", "category": "big data" },
+  { "name": "Apache Spark", "icon": "https://img.icons8.com/color/48/000000/apache-spark.png", "category": "big-data" },
+  { "name": "Kafka", "icon": "https://img.icons8.com/color/48/000000/kafka.png", "category": "big-data" },
   { "name": "TensorFlow", "icon": "https://img.icons8.com/color/48/000000/tensorflow.png", "category": "ml" },
   { "name": "PyTorch", "icon": "https://img.icons8.com/color/48/000000/pytorch.png", "category": "ml" }
 ]
