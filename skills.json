@@ -1,7 +1,7 @@
 [
   { "name": "Python", "icon": "https://img.icons8.com/color/48/000000/python.png", "category": "programming" },
   { "name": "R", "icon": "https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg", "category": "programming" },
-  { "name": "SAS", "icon": "https://www.sas.com/etc/designs/sas/clientlibs-resources/resources/favicons/sas-logo.png", "category": "programming" },
+  { "name": "SAS", "icon": "https://static-00.iconduck.com/assets.00/file-type-sas-icon-2048x2048-n104avlc.png", "category": "programming" },
   { "name": "TensorFlow", "icon": "https://img.icons8.com/color/48/000000/tensorflow.png", "category": "ml" },
   { "name": "PyTorch", "icon": "https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg", "category": "ml" },
   { "name": "Apache Spark", "icon": "https://img.icons8.com/color/48/000000/apache-spark.png", "category": "big-data" },
