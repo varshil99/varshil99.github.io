@@ -267,10 +267,16 @@ function showSkills(skills) {
     let programmingContainer = document.getElementById("programmingSkills");
     let databasesContainer = document.getElementById("databasesSkills");
     let cloudContainer = document.getElementById("cloudSkills");
+    let bigDataContainer = document.getElementById("bigDataSkills");
+    let biContainer = document.getElementById("biSkills");
+    let mlContainer = document.getElementById("mlSkills");
 
     let programmingHTML = "";
     let databasesHTML = "";
     let cloudHTML = "";
+    let bigDataHTML = "";
+    let biHTML = "";
+    let mlHTML = "";
 
     skills.forEach(skill => {
         let skillHTML = `
@@ -287,12 +293,21 @@ function showSkills(skills) {
             databasesHTML += skillHTML;
         } else if (skill.category === "cloud") {
             cloudHTML += skillHTML;
+        } else if (skill.category === "big-data") {  // Fixed category
+            bigDataHTML += skillHTML;
+        } else if (skill.category === "bi") {
+            biHTML += skillHTML;
+        } else if (skill.category === "ml") {
+            mlHTML += skillHTML;
         }
     });
 
     programmingContainer.innerHTML = programmingHTML;
     databasesContainer.innerHTML = databasesHTML;
     cloudContainer.innerHTML = cloudHTML;
+    bigDataContainer.innerHTML = bigDataHTML;
+    biContainer.innerHTML = biHTML;
+    mlContainer.innerHTML = mlHTML;
 }
 
 // Fetch and display skills
